@@ -1,0 +1,2 @@
+model_checkpoint_path: "Breakout_dqn_save.ckpt"
+all_model_checkpoint_paths: "Breakout_dqn_save.ckpt"
